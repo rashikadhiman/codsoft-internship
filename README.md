@@ -74,6 +74,26 @@ A fun command-line game where the user competes against the computer.
 
 **Task 4 screenshot**
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc65dc93-8546-42ef-b635-a473149f237e" />
+
+---
+📒 **Task 5: Contact Book**
+
+A simple contact management system to store and organize contact details.
+
+**✨ Features**
+
+- ➕ Add contacts
+- 🔍 Search contacts
+- ✏️ Update contact information
+- ❌ Delete contacts
+- 📋 Display all saved contacts
+
+**Task 5 screenshot**
+
+
+
+
 
 
 
