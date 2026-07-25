@@ -61,6 +61,18 @@ A secure password generator that creates strong and random passwords.
 <img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/8a3751e5-50ea-40a2-9c2e-d6835a885d00" />
 
 ---
+✊📄✂️ **Task 4: Rock-Paper-Scissors Game**
+
+A fun command-line game where the user competes against the computer.
+
+**✨ Features**
+
+- 🎮 User vs Computer
+- 🔀 Random computer choice
+- 🏆 Winner determination
+- 🔁 Multiple rounds
+
+**Task 4 screenshot**
 
 
 
