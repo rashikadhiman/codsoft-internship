@@ -13,9 +13,13 @@ Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering stud
 <h1> 📌Internship Details</h1>
 
 •**Internship:** Python Programming
+
 •**Organization:** CodSoft
+
 •**Duration:** 1 Month
+
 •**Language:** Python
+
 •**GUI Library:** Tkinter
 
 ---
