@@ -12,11 +12,11 @@ Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering stud
 ---
 <h1> 📌Internship Details</h1>
 
--**Internship:** Python Programming
--**Organization:** CodSoft
--**Duration:** 1 Month
--**Language:** Python
--**GUI Library:** Tkinter
+•**Internship:** Python Programming
+•**Organization:** CodSoft
+•**Duration:** 1 Month
+•**Language:** Python
+•**GUI Library:** Tkinter
 
 ---
 <h1>📌 Internship Tasks </h1>
@@ -104,13 +104,13 @@ A simple contact management system to store and organize contact details.
 
 ---
 <h2>🛠️ Technologies Used</h2>
-🐍 Python
-🖥️ Tkinter (GUI)
-📚 Python Lists
-🧩 Functions
-📦 Dictionaries
-💬 Tkinter Messagebox
-🎨 GUI Design & Event Handling
+•🐍 Python
+•🖥️ Tkinter (GUI)
+•📚 Python Lists
+•🧩 Functions
+•📦 Dictionaries
+•💬 Tkinter Messagebox
+•🎨 GUI Design & Event Handling
 
 ---
 <h2>🌱 Skills Gained</h2>
