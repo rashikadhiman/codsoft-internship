@@ -12,7 +12,7 @@ Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering stud
 ---
 📌 **Internship Tasks**
 
-#✅ Task 1: To-Do List Application
+✅ Task 1: To-Do List Application
 
 A simple and user-friendly application to manage daily tasks efficiently.
 
