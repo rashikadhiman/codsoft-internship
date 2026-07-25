@@ -5,7 +5,7 @@ Welcome to my **CodSoft Python Programming Internship** repository! 🎉
 This repository contains all the projects I completed during my internship. Each project helped me strengthen my Python programming skills and improve my problem-solving abilities by working on practical applications. 
 
 ---
-👩‍💻 **About Me**
+##👩‍💻 About Me
 
 Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering student. I am passionate about programming, continuously learning new technologies, and building projects that enhance my technical skills.
 
