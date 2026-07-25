@@ -109,11 +109,17 @@ A simple contact management system to store and organize contact details.
 ---
 <h2>🛠️ Technologies Used</h2>
 •🐍 Python
+
 •🖥️ Tkinter (GUI)
+
 •📚 Python Lists
+
 •🧩 Functions
+
 •📦 Dictionaries
+
 •💬 Tkinter Messagebox
+
 •🎨 GUI Design & Event Handling
 
 ---
