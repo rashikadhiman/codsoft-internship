@@ -1,4 +1,4 @@
-# codsoft-internship
+#🚀codsoft-internship
 
 Welcome to my **CodSoft Python Programming Internship** repository! 🎉
 
@@ -8,6 +8,15 @@ This repository contains all the projects I completed during my internship. Each
 <h1>👩‍💻 About Me </h1>
 
 Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering student. I am passionate about programming, continuously learning new technologies, and building projects that enhance my technical skills.
+
+---
+<h1> 📌Internship Details</h1>
+
+**Internship:** Python Programming
+**Organization:** CodSoft
+**Duration:** 1 Month
+**Language:** Python
+**GUI Library:** Tkinter
 
 ---
 <h1>📌 Internship Tasks </h1>
@@ -90,6 +99,38 @@ A simple contact management system to store and organize contact details.
 - 📋 Display all saved contacts
 
 <h3>Task 5 screenshot</h3>
+
+<img width="1366" height="764" alt="image" src="https://github.com/user-attachments/assets/3d13a311-7b7a-42ea-a0e2-f073857b8d12" />
+
+---
+<h2>🛠️ Technologies Used</h2>
+🐍 Python
+🖥️ Tkinter (GUI)
+📚 Python Lists
+🧩 Functions
+📦 Dictionaries
+💬 Tkinter Messagebox
+🎨 GUI Design & Event Handling
+
+---
+<h2>🌱 Skills Gained</h2>
+
+- ✅ Python Programming
+- ✅ Problem Solving
+- ✅ Logical Thinking
+- ✅ Data Structures (Basic)
+- ✅ Debugging
+- ✅ Version Control with Git & GitHub
+
+---
+<h2>🙏 Acknowledgement</h2>
+
+A big thank you to CodeSoft for providing this internship opportunity and practical projects that helped me enhance my programming skills and gain valuable hands-on experience.
+
+---
+<h3>⭐ If you found this repository helpful, don't forget to give it a Star!</h3>
+
+<h3>Happy Coding!🚀✨</h3>
 
 
 
