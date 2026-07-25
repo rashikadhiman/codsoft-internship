@@ -10,9 +10,9 @@ This repository contains all the projects I completed during my internship. Each
 Hi! I'm Rashika Dhiman, a second-year B.Tech Computer Science & Engineering student. I am passionate about programming, continuously learning new technologies, and building projects that enhance my technical skills.
 
 ---
-📌 **Internship Tasks**
+<h1>📌 Internship Tasks </h1>
 
-✅ Task 1: To-Do List Application
+<h2>✅ Task 1: To-Do List Application</h2>
 
 A simple and user-friendly application to manage daily tasks efficiently.
 
@@ -24,12 +24,12 @@ A simple and user-friendly application to manage daily tasks efficiently.
 - ❌ Delete completed or unwanted tasks
 - 💾 Easy task management
 
-**Task 1 screenshot**
+<h3>Task 1 screenshot</h3>
 
 <img width="1366" height="763" alt="image" src="https://github.com/user-attachments/assets/766115c4-07e8-49e0-b7a8-7ef5df8986ff" />
 
 ---
-🧮 **Task 2: Calculator**
+<h2>🧮 Task 2: Calculator</h2>
 
 A basic calculator capable of performing arithmetic operations.
 
@@ -41,12 +41,12 @@ A basic calculator capable of performing arithmetic operations.
 - ➗ Division
 - ⚠️ Handles invalid inputs gracefully
 
-**Task 2 screenshot**
+<h3>Task 2 screenshot</h3>
 
 <img width="1366" height="751" alt="image" src="https://github.com/user-attachments/assets/73ab264c-e413-4780-a61f-53acd60b1ec7" />
 
 ---
-🔐 **Task 3: Password Generator**
+<h2>🔐 Task 3: Password Generator</h2>
 
 A secure password generator that creates strong and random passwords.
 
@@ -56,12 +56,12 @@ A secure password generator that creates strong and random passwords.
 - 🎯 User-defined password length
 - 🔀 Random combination of letters, numbers, and special characters
 
-**Task 3 screenshot**
+<h3>Task 3 screenshot</h3>
 
 <img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/8a3751e5-50ea-40a2-9c2e-d6835a885d00" />
 
 ---
-✊📄✂️ **Task 4: Rock-Paper-Scissors Game**
+<h2>✊📄✂️ Task 4: Rock-Paper-Scissors Game</h2>
 
 A fun command-line game where the user competes against the computer.
 
@@ -72,12 +72,12 @@ A fun command-line game where the user competes against the computer.
 - 🏆 Winner determination
 - 🔁 Multiple rounds
 
-**Task 4 screenshot**
+<h3>Task 4 screenshot</h3>
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc65dc93-8546-42ef-b635-a473149f237e" />
 
 ---
-📒 **Task 5: Contact Book**
+<h2>📒 Task 5: Contact Book</h2>
 
 A simple contact management system to store and organize contact details.
 
@@ -89,7 +89,7 @@ A simple contact management system to store and organize contact details.
 - ❌ Delete contacts
 - 📋 Display all saved contacts
 
-**Task 5 screenshot**
+<h3>Task 5 screenshot</h3>
 
 
 
