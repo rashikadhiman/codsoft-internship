@@ -56,6 +56,13 @@ A secure password generator that creates strong and random passwords.
 - 🎯 User-defined password length
 - 🔀 Random combination of letters, numbers, and special characters
 
+**Task 3 screenshot**
+
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/8a3751e5-50ea-40a2-9c2e-d6835a885d00" />
+
+---
+
+
 
 
 
