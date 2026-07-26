@@ -39,7 +39,7 @@ A simple and user-friendly application to manage daily tasks efficiently.
 
 <h3>Task 1 screenshot</h3>
 
-<img width="1366" height="763" alt="image" src="https://github.com/user-attachments/assets/766115c4-07e8-49e0-b7a8-7ef5df8986ff" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc11ebb3-a7b7-42a9-8f28-9f0a4319f354" />
 
 ---
 <h2>🧮 Task 2: Calculator</h2>
